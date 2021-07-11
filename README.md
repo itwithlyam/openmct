@@ -13,7 +13,7 @@ Try Open MCT now with our [live demo](https://openmct-demo.herokuapp.com/).
 
 ## Building and Running Open MCT Locally
 
-Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/) installed, then follow the directions below. Need additional information? Check out the [Getting Started](https://nasa.github.io/openmct/getting-started/) page on our website.
+Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/) installed (some developers have [reported issues](https://github.com/nasa/openmct/issues/3966) with version 16.x, however LTS v14.17.3 does work), then follow the directions below. Need additional information? Check out the [Getting Started](https://nasa.github.io/openmct/getting-started/) page on our website.
 (These instructions assume you are installing as a non-root user; developers have [reported issues](https://github.com/nasa/openmct/issues/1151) running these steps with root privileges.)
 
 1. Clone the source code
